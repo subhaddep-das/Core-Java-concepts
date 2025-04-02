@@ -8,7 +8,7 @@ public class BasicConcepts {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice;
-        TypeCasting typeCaster = new TypeCasting();
+        TypeCasting typeCaster = new TypeCasting(); 
 
         do {
             System.out.println("\nMenu:");

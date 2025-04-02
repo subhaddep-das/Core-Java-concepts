@@ -18,7 +18,7 @@ public class TypeCasting {
         System.out.println("float value: " + floatValue);
         System.out.println("double value: " + doubleValue);
 
-        // Explicit Type Casting (Narrowing)
+        // Explicit Type Casting (Narrowing) 
         double anotherDouble = 15.75;
         int anotherInt = (int) anotherDouble;
         float anotherFloat = (float) anotherDouble;
