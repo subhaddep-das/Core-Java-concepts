@@ -3,7 +3,7 @@ package concepts;
 import operators.TypeCasting;
 import java.util.Scanner;
 
-public class BasicConcepts {
+public class BasicConcepts { 
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
